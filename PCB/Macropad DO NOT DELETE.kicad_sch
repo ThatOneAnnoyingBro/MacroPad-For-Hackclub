@@ -2242,16 +2242,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 110.49) (xy 95.25 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8a85cf8-a410-49a1-be81-8351a74d86a7")
-	)
-	(wire
-		(pts
 			(xy 68.58 68.58) (xy 101.6 68.58)
 		)
 		(stroke
@@ -2578,7 +2568,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 143.51 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2658,7 +2648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 170.18 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2825,7 +2815,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 170.18 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -3145,7 +3135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 170.18 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -3225,7 +3215,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 119.38 113.03 0)
 			(hide yes)
 			(show_name no)
